@@ -1,0 +1,8 @@
+:root {
+  --firstColor: #757575;
+  --secondtColor: #ffffff;
+  --colorHover: #2196f3;
+  --colorDefault: #212121;
+  --colorOpacity: rgba(255, 255, 255, 0.6);
+  --textcolor: #000000;
+}
